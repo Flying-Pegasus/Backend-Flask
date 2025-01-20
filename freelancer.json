@@ -1553,5 +1553,23 @@
         "email": "terrence@gmail.com",
         "password": "$2a$10$WNEr5GV5aXGTicCllMVuAO0BClHQi3DvlyYSBWOMeGGcWXlni/bzG",
         "id": 60
+    },
+    {
+        "name": "fkjebkfbef",
+        "country": "India",
+        "hourlyRate": 45.0,
+        "jobSuccess": 87.0,
+        "title": "vnslkjnv",
+        "totalHours": 87,
+        "totalJobs": 20,
+        "skills": [
+            "Java",
+            "Cpp",
+            "Python",
+            "Javascript"
+        ],
+        "email": "qwerty@gmail.com",
+        "password": "$2a$10$W20/H2WqbP6Oy0QWOxg11.f4kfqiLLOMiOi.OvSvmQ0P25VZGWQMC",
+        "id": 61
     }
 ]
