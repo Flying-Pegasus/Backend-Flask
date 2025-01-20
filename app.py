@@ -33,6 +33,11 @@ def reload_freelancers():
         return []
     with open("freelancer.json", "r") as file:
         return json.load(file)
+    
+
+@app.route('/')
+def home():
+    return 'Hello, World!'
 
 
 @app.route('/job_details/<int:job_id>', methods=['GET'])
